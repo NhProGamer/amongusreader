@@ -205,3 +205,18 @@ Computed from the actual SVG collider paths:
   connection is required on first attach.
 - The reader auto-detects 32-bit vs 64-bit Among Us builds.
 - Mod detection (TheOtherRoles, etc.) is automatic based on the game path.
+
+---
+
+## Acknowledgements
+This library would not exist without the following projects:
+- **[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)** by [OhMyGuus](https://github.com/OhMyGuus)
+  — The memory reading logic, camera detection, collision data, and offset structure
+  are all ported directly from this project.
+- **[CrewLink](https://github.com/ottomated/CrewLink)** by [ottomated](https://github.com/ottomated)
+  — The original proximity voice chat mod for Among Us, and the foundation on which
+  BetterCrewLink is built.
+- **[BetterCrewlink-Offsets](https://github.com/OhMyGuus/BetterCrewlink-Offsets)** by [OhMyGuus](https://github.com/OhMyGuus)
+  — The versioned memory offset database fetched at runtime to support every
+  Among Us release.
+---
