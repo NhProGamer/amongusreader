@@ -208,7 +208,7 @@ Computed from the actual SVG collider paths:
 
 ---
 
-## Acknowledgements
+## Acknowledgements
 
 This library would not exist without the following projects:
 - **[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)** by [OhMyGuus](https://github.com/OhMyGuus)
