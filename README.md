@@ -209,6 +209,7 @@ Computed from the actual SVG collider paths:
 ---
 
 ## Acknowledgements
+
 This library would not exist without the following projects:
 - **[BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)** by [OhMyGuus](https://github.com/OhMyGuus)
   — The memory reading logic, camera detection, collision data, and offset structure
@@ -219,4 +220,5 @@ This library would not exist without the following projects:
 - **[BetterCrewlink-Offsets](https://github.com/OhMyGuus/BetterCrewlink-Offsets)** by [OhMyGuus](https://github.com/OhMyGuus)
   — The versioned memory offset database fetched at runtime to support every
   Among Us release.
+  
 ---
